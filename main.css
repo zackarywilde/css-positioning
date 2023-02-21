@@ -1,0 +1,35 @@
+#navbar 
+{
+    height: 115px;
+    background-color: orange;
+padding:25px;
+font-size: 25px;
+color: white;
+font-weight: bold;
+padding-left: 120px;
+padding-right: 0px;
+
+margin: 0px;
+}
+
+.links {float:right;
+padding-right: 50px;}
+.title {float: left;}
+body {background-color: antiquewhite;}
+.box {border: 2px solid orange;
+width: 300px;
+height:400px;
+display:inline-block;
+padding-left: 20px;
+margin:30px 30px;
+background-color: white;}
+#boxes {
+margin:0 10px;
+text-align: center;}
+.box p {float:left;}
+
+.box .readmore  {background-color: orange;
+    margin-top:250px; margin-left:45px;
+padding:10px 45px;
+color: white;}
+
